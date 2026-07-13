@@ -10,3 +10,5 @@
 | [file-upload-vulnerability-report.pdf](./file-upload-vulnerability-report.pdf) | 文件上传漏洞报告（PDF版） |
 | [business-logic-vuln-report.md](./business-logic-vuln-report.md) | 业务逻辑及越权漏洞报告 |
 | [business-logic-vuln-report.pdf](./business-logic-vuln-report.pdf) | 业务逻辑及越权漏洞报告（PDF版） |
+| [file-inclusion-vuln-report.md](./file-inclusion-vuln-report.md) | 文件包含漏洞报告 |
+| [file-inclusion-vuln-report.pdf](./file-inclusion-vuln-report.pdf) | 文件包含漏洞报告（PDF版） |
