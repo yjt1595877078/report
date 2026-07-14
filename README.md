@@ -12,3 +12,5 @@
 | [business-logic-vuln-report.pdf](./business-logic-vuln-report.pdf) | 业务逻辑及越权漏洞报告（PDF版） |
 | [file-inclusion-vuln-report.md](./file-inclusion-vuln-report.md) | 文件包含漏洞报告 |
 | [file-inclusion-vuln-report.pdf](./file-inclusion-vuln-report.pdf) | 文件包含漏洞报告（PDF版） |
+| [csrf-vuln-report.md](./csrf-vuln-report.md) | CSRF漏洞报告 |
+| [csrf-vuln-report.pdf](./csrf-vuln-report.pdf) | CSRF漏洞报告（PDF版） |
