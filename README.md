@@ -14,3 +14,5 @@
 | [file-inclusion-vuln-report.pdf](./file-inclusion-vuln-report.pdf) | 文件包含漏洞报告（PDF版） |
 | [csrf-vuln-report.md](./csrf-vuln-report.md) | CSRF漏洞报告 |
 | [csrf-vuln-report.pdf](./csrf-vuln-report.pdf) | CSRF漏洞报告（PDF版） |
+| [ssrf-vuln-report.md](./ssrf-vuln-report.md) | SSRF漏洞报告 |
+| [ssrf-vuln-report.pdf](./ssrf-vuln-report.pdf) | SSRF漏洞报告（PDF版） |
