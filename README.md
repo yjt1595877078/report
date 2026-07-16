@@ -16,3 +16,5 @@
 | [csrf-vuln-report.pdf](./csrf-vuln-report.pdf) | CSRF漏洞报告（PDF版） |
 | [ssrf-vuln-report.md](./ssrf-vuln-report.md) | SSRF漏洞报告 |
 | [ssrf-vuln-report.pdf](./ssrf-vuln-report.pdf) | SSRF漏洞报告（PDF版） |
+| [cmd-injection-vuln-report.md](./cmd-injection-vuln-report.md) | 命令执行漏洞报告 |
+| [cmd-injection-vuln-report.pdf](./cmd-injection-vuln-report.pdf) | 命令执行漏洞报告（PDF版） |
